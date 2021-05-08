@@ -9,7 +9,7 @@ This is a Tensorflow/Keras implementation of the SINet network described in [Cam
   [COD10k](https://drive.google.com/file/d/1pVq1rWXCwkMbEZpTt4-yUQ3NsnQd_DNY/view)
   
 ## Link to partially trained network:
-  [Partially trained network](https://drive.google.com/file/d/1TpSfn9NjAkmbohi1sZx0n64TGVE0cCF-/view?usp=sharing)
+  [Partially trained network](https://drive.google.com/file/d/1TpSfn9NjAkmbohi1sZx0n64TGVE0cCF-/view?usp=sharing) ( 500Mb )
 
 ## Network's Architecture:
  ![SINet Architecture](SINet.png)
