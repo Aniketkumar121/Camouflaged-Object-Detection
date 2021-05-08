@@ -9,7 +9,7 @@ This is a Tensorflow/Keras implementation of the SINet network described in [Cam
   [COD10k](https://drive.google.com/file/d/1pVq1rWXCwkMbEZpTt4-yUQ3NsnQd_DNY/view)
   
 ## Network's Architecture:
-![SINet Architecture](SINet.png)
+ ![SINet Architecture](SINet.png)
 
 # Usage:
 
@@ -32,3 +32,6 @@ train.py [-h] --images IMAGES --labels LABELS [--epochs EPOCHS]
 --visualize 1
 
 ## Testing coming soon
+
+# Preliminary results:
+![result](result.png)
