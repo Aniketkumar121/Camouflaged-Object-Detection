@@ -8,6 +8,9 @@ This is a Tensorflow/Keras implementation of the SINet network described in [Cam
 ## Link to the database:
   [COD10k](https://drive.google.com/file/d/1pVq1rWXCwkMbEZpTt4-yUQ3NsnQd_DNY/view)
   
+## Link to partially trained network:
+  [Partially trained network](https://drive.google.com/file/d/1TpSfn9NjAkmbohi1sZx0n64TGVE0cCF-/view?usp=sharing)
+
 ## Network's Architecture:
  ![SINet Architecture](SINet.png)
 
