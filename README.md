@@ -3,7 +3,7 @@
 This is a Tensorflow/Keras implementation of the SINet network described in [Camouflaged Object Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_Camouflaged_Object_Detection_CVPR_2020_paper.pdf)
 
 ## Original implementation in PyTorch may be found in: 
-  (Camouflaged Object Detection (CVPR2020-Oral))https://github.com/DengPingFan/SINet/
+  (Camouflaged Object Detection - CVPR2020-Oral )https://github.com/DengPingFan/SINet/
 
 ## Link to the database:
   [COD10k](https://drive.google.com/file/d/1pVq1rWXCwkMbEZpTt4-yUQ3NsnQd_DNY/view)
