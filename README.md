@@ -35,3 +35,4 @@ train.py [-h] --images IMAGES --labels LABELS [--epochs EPOCHS]
 
 # Preliminary results:
 ![result](result.png)
+![result2](result2.png)
